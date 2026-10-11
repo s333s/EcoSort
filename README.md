@@ -105,7 +105,6 @@ ecosort-banana-hacks-2026/
 
 ## 👤 Author
 **Al Abri** ([@s333s](https://github.com/s333s))
-**YouTube** ([https://github.com/s333s](https://youtu.be/KU90xjKkEjs))
 
 ## 📄 License
 MIT
