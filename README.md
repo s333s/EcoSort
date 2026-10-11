@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/EcoSort.jpeg" alt="EcoSort.jpeg" width="700">
+  <img src="EcoSort.jpeg" alt="EcoSort.jpeg" width="700">
 </p>
 
 <h1 align="center">🍌 EcoSort</h1>
@@ -87,11 +87,11 @@ ecosort-banana-hacks-2026/
 ## 📸 Screenshots
 | Home | Result |
 |---|---|
-| ![Home](docs/screenshot-1.png) | ![Result](docs/screenshot-2.png) |
+| ![H](screenshot-1.png) | ![R](screenshot-2.png) |
 
 | Disposal Advice | Uncertain Result |
 |---|---|
-| ![Advice](docs/screenshot-3.png) | ![Uncertain](docs/screenshot-4.png) |
+| ![A](screenshot-3.png) | ![U](screenshot-4.png) |
 
 ## 🧗 Challenges
 1. **Java + deep learning:** making the native PyTorch libraries load across operating systems through DJL.
