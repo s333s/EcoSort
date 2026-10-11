@@ -1,0 +1,8 @@
+{
+  "name": "Remix EcoSort - Java AI Waste Classifier Workbench",
+  "description": "Banana Hacks 2026 Image AI project companion, featuring Deep Java Library (DJL) waste classification, JavaFX architecture explorer, complete source code, Devpost kit, and interactive demo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
