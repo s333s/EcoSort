@@ -68,8 +68,8 @@ Photo → Preprocess (resize/normalize) → ResNet-50 via DJL
 
 ### Run
 ```bash
-git clone https://github.com/s333s/ecosort-banana-hacks-2026.git
-cd ecosort-banana-hacks-2026
+git clone https://github.com/s333s/EcoSort.git
+cd EcoSort
 mvn clean javafx:run
 ```
 If `javafx:run` isn't configured in your `pom.xml`, run the main class from your IDE (IntelliJ or Eclipse).
